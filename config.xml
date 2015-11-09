@@ -6,10 +6,10 @@
         id        = "com.grupotransmeridian.pedidoSodimac"
         version   = "1.0.0">
 
-    <name>TrackOut - SODIMAC</name>
+    <name>TrackOut - Integral</name>
 
     <description>
-       Interfaz de consulta y traking de OC de SODIMAC
+       Interfaz de consulta y traking de OC de SODIMAC/MESTRO
     </description>
 
     <author href="http://grupotransmeridian.com.pe" email="fcamacho@meridian.com.pe">
